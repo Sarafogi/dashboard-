@@ -1,0 +1,288 @@
+Name,Category,Reinforcement,Damage,Damage Reduction,Aux Effects,Stat Requirements,Stat Bonuses,Critical,Weight,Stability,Durability,Sell Price,Spell Buff,Range,Buffable,Infusable
+Fist,Fists,Regular,20/0/0/0/0,0/0/0/0/0,0/0/0,0/0/0/0,-/-/-/-,100,0,0,0,0,N/A,N/A,No,No
+Dragonhead Shield,Small Shields,Boss,116/0/12/0/0,70/65/90/35/55,0/0/0,12/0/11/12,D/-/E/E,100,4.5,40,85,500,N/A,N/A,Yes,No
+Dragonhead Greatshield,Greatshields,Boss,145/0/0/0/0,100/55/90/30/55,0/0/0,35/0/0/15,D/-/-/E,100,18.0,60,150,500,N/A,N/A,Yes,No
+White Birch Bow,Bows,Unique,82/0/0/0/0,-/-/-/-/-,0/0/0,8/20/0/0,E/D/-/-,100,2.5,-,50,300,N/A,49,No,No
+Preacher's Right Arm,Staves,Unique,109/0/0/0/0,25/20/10/10/15,0/0/0,12/0/14/0,E/-/A/-,100,2.0,10,50,300,229,N/A,No,No
+Sacred Chime of Filianore,Chimes,Unique,74/0/0/0/0,25/15/10/10/15,0/0/0,4/0/0/18,E/-/-/C,100,0.5,10,50,300,200,N/A,No,No
+Ringed Knight Spear,Pikes,Unique,126/0/12/0/0,45/30/20/20/30,0/0/0,15/17/0/0,D/D/E/E,100,9.0,25,90,800,N/A,N/A,No,No
+Ledo's Great Hammer,Great Hammers,Unique,170/0/0/0/0,85/55/60/55/55,0/0/0,60/0/0/0,B/-/-/-,100,28.0,50,310,1000,N/A,N/A,No,No
+Crucifix of the Mad King,Halberds,Unique,124/0/0/0/74,45/30/25/25/30,0/0/0,19/0/10/14,D/-/E/D,100,12.0,25,80,800,N/A,N/A,Yes,No
+Giant Door Shield,Greatshields,Regular,107/0/0/0/0,100/75/45/80/75,0/0/0,45/0/0/0,C/-/-/-,100,21.5,60,150,500,N/A,N/A,Yes,Yes
+Lothric War Banner,Pikes,Regular,100/0/0/0/0,40/25/20/20/25,0/0/0,14/14/0/0,D/D/-/-,100,5.0,20,70,500,N/A,N/A,Yes,Yes
+Repeating Crossbow,Crossbows,Boss,77/0/0/0/0,0/0/0/0/0,0/0/0,16/20/0/0,-/-/-/-,100,7.5,-,20,1000,N/A,49,No,No
+Gael's Greatsword,Greatswords,Boss,147/0/0/0/0,50/35/30/30/35,0/0/0,19/13/0/0,C/D/-/-,100,9.0,40,55,2000,N/A,N/A,No,No
+Frayed Blade,Katanas,Boss,101/0/0/0/41,45/25/30/15/40,0/34/0,11/40/0/0,E/B/-/-,100,8.0,30,20,1500,N/A,N/A,No,No
+Ringed Knight Paired Greatswords,Ultra Greatswords,Unique,185/0/11/0/0,50/40/35/35/40,0/0/0,40/15/0/0,C/E/E/E,100,22.5,40,90,1000,N/A,N/A,No,No
+Ringed Knight Straight Sword,Straight Swords,Unique,120/0/11/0/0,45/30/25/25/30,0/0/0,17/15/0/0,C/D/E/E,100,4.5,30,70,800,N/A,N/A,No,No
+Demon's Scar,Curved Swords,Boss,0/0/99/0/0,25/35/65/30/35,0/0/0,0/16/17/17,-/E/D/D,110,0.5,30,70,150,202,N/A,No,No
+Harald Curved Greatsword,Curved Greatswords,Regular,140/0/0/0/0,60/50/40/40/50,0/0/0,22/18/0/0,D/D/-/-,100,14.0,45,120,500,N/A,N/A,Yes,Yes
+Aquamarine Dagger,Daggers,Unique,67/67/0/0/0,35/20/15/15/20,0/0/0,5/14/18/0,E/D/D/-,100,1.5,15,50,100,N/A,N/A,No,No
+Murky Longstaff,Staves,Spell Tool,86/0/0/0/20,30/20/10/10/25,0/0/0,6/0/12/0,D/D/B/E,100,3.0,15,55,300,239,N/A,No,No
+Murky Hand Scythe,Daggers,Regular,72/0/0/0/22,35/20/15/15/20,0/0/0,6/11/11/11,D/D/E/E,100,2.0,15,50,100,N/A,N/A,Yes,Yes
+Splitleaf Greatsword,Halberds,Regular,132/0/0/0/0,40/25/20/20/25,0/0/0,26/16/0/0,C/E/-/-,100,13.5,20,90,500,N/A,N/A,Yes,Yes
+Rose of Ariandel,Whips,Boss,79/0/0/0/0,25/15/10/10/15,0/34/0,10/12/0/17,C/E/-/B,100,3.5,10,50,1000,201,N/A,No,No
+Pyromancer's Parting Flame,Pyromancy Flames,Spell Tool,0/0/110/0/0,-/-/-/-/-,0/0/0,15/0/13/13,-/-/D/D,100,0.0,-,65,300,207,N/A,No,No
+Follower Shield,Normal Shields,Regular,84/0/0/0/0,80/50/35/50/65,0/0/0,9/0/0/0,D/-/-/-,100,3.5,55,55,100,N/A,N/A,Yes,Yes
+Ethereal Oak Shield,Normal Shields,Unique,103/0/0/0/0,100/65/35/70/60,0/0/0,12/0/0/0,D/-/-/-,100,5.0,50,80,300,N/A,N/A,Yes,No
+Follower Torch,Torches,Regular,90/0/65/0/0,45/30/25/25/30,0/0/0,14/0/10/10,D/E/E/E,100,6.0,30,45,100,N/A,N/A,No,No
+Friede's Great Scythe,Reapers,Boss,110/77/0/0/0,40/25/20/20/25,0/0/45,12/16/12/11,E/B/C/E,100,13.0,20,60,1000,N/A,N/A,No,No
+Crow Quills,Thrusting Swords,Regular,98/0/0/0/0,35/20/15/15/20,0/0/0,9/16/0/0,E/C/-/-,120,4.0,15,60,100,N/A,N/A,Yes,Yes
+Quakestone Hammer,Great Hammers,Unique,170/0/0/0/0,55/40/35/35/40,0/0/0,40/0/0/0,C/-/-/-,100,15.0,40,150,300,N/A,N/A,No,No
+Follower Javelin,Spears,Regular,106/0/0/0/0,40/25/20/20/25,0/0/0,12/12/0/0,C/E/-/-,100,4.0,20,70,100,N/A,N/A,Yes,Yes
+Millwood Greatbow,Greatbows,Unique,139/0/0/0/0,0/0/0/0/0,0/0/0,28/12/0/0,C/E/-/-,100,9.0,0,100,1000,N/A,39,No,No
+Onyx Blade,Greatswords,Unique,80/0/0/0/115,50/35/30/30/35,0/0/0,14/12/15/15,E/E/D/D,100,9.0,35,75,500,N/A,N/A,No,No
+Earth Seeker,Greataxes,Boss,154/0/0/0/0,55/45/40/40/45,0/0/0,24/0/0/15,C/-/-/D,100,17.0,40,115,500,N/A,N/A,No,No
+Crow Talons,Claws,Regular,91/0/0/0/0,-/-/-/-/-,0/30/0,6/19/0/0,E/C/-/-,110,3.0,-,65,100,N/A,N/A,Yes,Yes
+Millwood Battle Axe,Axes,Regular,135/0/0/0/0,45/30/25/25/30,0/0/0,15/10/0/0,C/E/-/-,100,6.5,35,80,100,N/A,N/A,Yes,Yes
+Valorheart,Straight Swords,Unique,120/0/0/0/0,60/40/35/30/35,0/0/0,12/12/0/0,D/D/-/-,100,5.5,50,70,500,N/A,N/A,No,No
+Follower Sabre,Curved Swords,Regular,108/0/0/0/0,45/30/25/25/30,0/0/0,9/14/0/0,D/D/-/-,100,4.0,30,70,100,N/A,N/A,Yes,Yes
+Torch,Torches,Regular,35/0/80/0/0,30/20/15/15/20,0/0/0,5/0/0/0,D/-/-/-,100,1.0,17,45,50,N/A,N/A,No,No
+Dragon Tooth,Great Hammers,Boss,188/0/0/0/0,60/45/40/40/45,0/0/0,40/0/0/0,C/-/-/-,100,21.0,45,340,500,N/A,N/A,Yes,No
+Cathedral Knight Greatshield,Greatshields,Regular,112/0/0/0/100,100/63/60/54/83,0/0/0,32/0/0/0,D/-/-/-,100,15.5,67,150,300,N/A,N/A,Yes,No
+Archdeacon's Great Staff,Staves,Unique,89/0/0/0/0,25/25/10/10/15,0/0/0,8/0/12/12,D/-/-/A,100,2.5,15,55,1000,241,N/A,No,No
+Heavy Crossbow,Crossbows,Bow,72/0/0/0/0,0/0/0/0/0,0/0/0,14/8/0/0,-/-/-/-,100,4.5,0,55,100,N/A,50,No,No
+Carthus Curved Greatsword,Curved Greatswords,Regular,125/0/0/0/0,50/40/35/35/40,0/36/0,18/22/0/0,D/C/-/-,100,10.5,40,85,150,N/A,N/A,Yes,Yes
+Spotted Whip,Whips,Regular,102/0/0/0/0,25/15/10/10/15,36/0/0,9/20/0/0,-/D/-/-,100,2.5,10,50,400,N/A,N/A,Yes,No
+Witchtree Branch,Staves,Spell Tool,57/0/0/0/0,25/20/10/10/15,0/0/0,7/0/18/0,E/-/C/-,100,2.0,10,40,100,184,N/A,No,No
+Mendicant's Staff,Staves,Spell Tool,60/0/0/0/0,25/25/10/10/15,0/0/0,7/0/18/0,D/-/B/-,100,2.5,10,55,200,208,N/A,No,No
+Lothric Knight Shield,Normal Shields,Regular,83/0/0/0/0,100/59/53/87/51,0/0/0,18/0/0/0,D/-/-/-,100,6.0,54,75,350,N/A,N/A,Yes,Yes
+Yhorm's Greatshield,Greatshields,Boss,132/0/0/0/0,100/74/76/63/73,0/0/0,40/0/0/0,D/-/-/-,100,20.5,73,205,1000,N/A,N/A,No,No
+Wolf Knight's Greatshield,Greatshields,Unique,124/0/0/0/0,100/68/65/52/68,0/0/0,30/0/0/0,D/-/-/-,100,11.0,67,140,1000,N/A,N/A,Yes,No
+Twin Dragon Greatshield,Greatshields,Regular,106/0/0/0/0,84/59/63/66/59,0/0/0,16/0/0/0,D/-/-/-,100,7.0,63,105,350,N/A,N/A,Yes,Yes
+Stone Greatshield,Greatshields,Regular,115/0/0/0/0,100/75/71/71/75,0/0/0,38/0/0/0,D/-/-/-,100,18.0,67,170,300,N/A,N/A,Yes,Yes
+Havel's Greatshield,Greatshields,Unique,143/0/0/0/0,100/83/83/82/83,0/0/0,40/0/0/0,D/-/-/-,100,28.0,75,270,500,N/A,N/A,Yes,No
+Moaning Shield,Greatshields,Unique,136/0/0/0/0,100/81/69/76/67,0/0/0,50/0/0/0,D/-/-/-,100,21.5,77,205,1000,N/A,N/A,Yes,No
+Lothric Knight Greatshield,Greatshields,Regular,111/0/0/0/0,100/83/66/54/63,0/0/0,36/0/0/0,D/-/-/-,100,15.0,64,140,350,N/A,N/A,Yes,Yes
+Dragonslayer Greatshield,Greatshields,Boss,134/0/0/0/0,100/71/70/95/77,0/0/0,38/0/0/0,D/-/-/-,100,26.0,74,190,1000,N/A,N/A,Yes,No
+Greatshield of Glory,Greatshields,Unique,134/0/0/0/0,100/70/65/52/63,0/0/0,40/0/0/0,D/-/-/-,100,18.5,80,190,100,N/A,N/A,Yes,No
+Curse Ward Greatshield,Greatshields,Boss,125/0/0/0/0,100/75/69/63/75,0/0/0,34/0/0/0,D/-/-/-,100,17.0,66,150,100,N/A,N/A,Yes,No
+Bonewheel Shield,Greatshields,Regular,111/0/0/0/0,100/63/59/54/63,0/0/0,30/10/0/0,D/-/-/-,100,15,59,115,90,N/A,N/A,Yes,Yes
+Black Iron Greatshield,Greatshields,Regular,112/0/0/0/0,100/69/83/53/69,0/0/0,32/0/0/0,D/-/-/-,100,14.5,64,150,500,N/A,N/A,Yes,Yes
+Ancient Dragon Greatshield,Greatshields,Unique,87/0/0/0/0,77/45/43/46/45,0/0/0,16/0/0/0,D/-/-/-,100,6.5,54,105,300,N/A,N/A,Yes,No
+Warrior's Round Shield,Small Shields,Regular,74/0/0/0/0,62/68/45/46/36,0/0/0,10/0/0/0,E/-/-/-,100,1.5,41,55,100,N/A,N/A,Yes,Yes
+Shield of Want,Normal Shields,Boss,104/0/0/0/0,100/61/63/43/61,0/0/0,18/0/0/0,D/-/-/-,100,5.5,58,110,500,N/A,N/A,Yes,No
+Large Leather Shield,Normal Shields,Regular,78/0/0/0/0,85/54/56/58/48,0/0/0,8/0/0/0,D/-/-/-,100,3.5,51,75,100,N/A,N/A,Yes,Yes
+Kite Shield,Normal Shields,Regular,80/0/0/0/0,100/50/52/33/50,0/0/0,12/0/0/0,D/-/-/-,100,4.5,47,80,100,N/A,N/A,Yes,Yes
+Wargod Wooden Shield,Normal Shields,Regular,88/0/0/0/0,84/47/69/64/67,0/0/0,12/0/0/0,D/-/-/-,100,4.0,57,70,200,N/A,N/A,Yes,Yes
+Stone Parma,Normal Shields,Regular,94/0/0/0/0,100/58/52/53/57,0/0/0,17/0/0/0,D/-/-/-,100,7.0,57,70,100,N/A,N/A,Yes,Yes
+Spirit Tree Crest Shield,Normal Shields,Unique,95/0/0/0/0,100/67/56/83/53,0/0/0,14/0/0/0,D/-/-/-,100,5.0,49,90,100,N/A,N/A,Yes,No
+Spiked Shield,Normal Shields,Regular,86/0/0/0/0,91/49/51/32/56,0/30/0,12/12/0/0,D/-/-/-,100,3.5,48,75,210,N/A,N/A,Yes,Yes
+Spider Shield,Normal Shields,Regular,88/0/0/0/0,80/52/47/29/46,0/0/0,10/0/0/0,D/-/-/-,100,3.5,56,75,150,N/A,N/A,Yes,Yes
+Pontiff Knight Shield,Normal Shields,Unique,63/0/0/0/0,73/79/69/69/72,0/0/0,8/12/0/0,D/-/-/-,100,3.5,42,65,300,N/A,N/A,Yes,No
+Pierce Shield,Normal Shields,Regular,87/0/0/0/0,93/62/50/31/48,0/0/0,10/0/0/0,D/-/-/-,100,3.5,53,90,10,N/A,N/A,Yes,Yes
+Silver Knight Shield,Normal Shields,Unique,98/0/0/0/0,100/60/54/48/52,0/0/0,16/0/0/0,D/-/-/-,100,6.5,55,100,500,N/A,N/A,Yes,No
+Silver Eagle Kite Shield,Normal Shields,Regular,88/0/0/0/0,100/44/45/33/43,0/0/0,11/0/0/0,D/-/-/-,100,5.0,45,60,170,N/A,N/A,Yes,Yes
+Porcine Shield,Normal Shields,Regular,85/0/0/0/0,74/43/38/27/36,0/0/0,8/0/0/0,D/-/-/-,100,4.5,48,70,35,N/A,N/A,Yes,Yes
+Carthus Shield,Normal Shields,Regular,56/0/0/0/0,65/45/21/56/52,0/0/0,8/0/0/0,D/-/-/-,100,2.5,45,80,130,N/A,N/A,Yes,Yes
+Sunlight Shield,Normal Shields,Regular,82/0/0/0/0,100/54/49/44/47,0/0/0,12/0/0/0,D/-/-/-,100,5.5,49,80,500,N/A,N/A,Yes,Yes
+Wooden Shield,Normal Shields,Regular,78/0/0/0/0,57/66/48/44/39,0/0/0,8/0/0/0,D/-/-/-,100,2.5,53,70,50,N/A,N/A,Yes,Yes
+Sunset Shield,Normal Shields,Regular,82/0/0/0/0,100/60/55/55/26,0/0/0,12/0/0/0,D/-/-/-,100,5.0,49,80,100,N/A,N/A,Yes,Yes
+Knight Shield,Normal Shields,Regular,79/0/0/0/0,100/51/46/34/44,0/0/0,13/0/0/0,D/-/-/-,100,4.5,48,65,120,N/A,N/A,Yes,Yes
+Grass Crest Shield,Normal Shields,Unique,92/0/0/0/0,89/43/38/33/36,0/0/0,10/0/0/0,D/-/-/-,100,4.5,50,75,500,N/A,N/A,Yes,No
+Hawkwood's Shield,Small Shields,Regular,72/0/0/0/0,56/35/58/45/55,0/0/0,5/0/0/0,E/-/-/-,100,2.0,41,60,100,N/A,N/A,Yes,Yes
+Golden Wing Crest Shield,Normal Shields,Unique,102/0/0/0/0,100/75/50/57/47,0/0/0,14/0/0/0,D/-/-/-,100,5.5,50,100,250,N/A,N/A,Yes,No
+East-West Shield,Normal Shields,Regular,76/0/0/0/0,55/70/53/56/46,0/0/0,8/0/0/0,D/-/-/-,100,2.0,45,50,100,N/A,N/A,Yes,Yes
+Dragon Crest Shield,Normal Shields,Unique,95/0/0/0/0,100/67/89/43/53,0/0/0,14/0/0/0,D/-/-/-,100,5.0,49,90,500,N/A,N/A,Yes,No
+Crest Shield,Normal Shields,Unique,95/0/0/0/0,100/67/56/43/86,0/0/0,14/0/0/0,D/-/-/-,100,5.0,49,90,300,N/A,N/A,Yes,No
+Blue Wooden Shield,Normal Shields,Regular,77/0/0/0/0,56/70/54/56/39,0/0/0,8/0/0/0,D/-/-/-,100,2.5,50,65,75,N/A,N/A,Yes,Yes
+Black Knight Shield,Normal Shields,Unique,113/0/0/0/0,100/65/85/52/63,0/0/0,18/0/0/0,D/-/-/-,100,7.5,60,130,500,N/A,N/A,Yes,No
+Yorshka's Chime,Chimes,Spell Tool,54/0/0/0/0,25/15/10/20/15,0/0/0,3/0/0/30,D/-/-/A,100,0.5,10,60,100,247,N/A,No,No
+Saint-tree Bellvine,Chimes,Spell Tool,52/0/0/0/0,25/15/10/15/15,0/0/0,3/0/0/18,E/-/-/C,100,0.5,10,45,100,198,N/A,No,No
+Priest's Chime,Chimes,Spell Tool,52/0/0/0/0,25/15/10/15/15,0/0/0,3/0/0/10,E/-/-/B,100,0.5,10,45,300,224,N/A,No,No
+Crystal Chime,Chimes,Unique,73/0/0/0/0,25/20/10/15/15,0/0/0,3/0/18/18,E/-/D/D,100,0.5,10,40,500,227,N/A,No,No
+Cleric's Sacred Chime,Chimes,Spell Tool,52/0/0/0/0,25/15/10/15/15,0/0/0,3/0/0/14,D/-/-/A,100,0.5,10,50,100,232,N/A,No,No
+Caitha's Chime,Chimes,Unique,74/0/0/0/0,25/15/10/15/20,0/0/0,3/0/12/12,E/-/C/B,100,0.5,10,45,500,312,N/A,No,No
+White Hair Talisman,Talismans,Unique,73/0/79/0/0,25/15/15/15/15,0/0/0,4/0/16/20,E/-/D/D,100,0.5,10,45,500,200,N/A,No,No
+Talisman,Talismans,Spell Tool,52/0/0/0/0,25/15/10/15/15,0/0/0,4/0/0/10,E/-/-/B,100,0.5,10,50,100,226,N/A,No,No
+Sunlight Talisman,Talismans,Spell Tool,53/0/0/0/0,25/15/10/15/15,0/0/0,4/0/0/14,D/-/-/B,100,0.5,10,65,100,203,N/A,No,No
+Sunless Talisman,Talismans,Unique,74/0/0/0/0,25/15/10/15/15,0/0/0,4/0/0/24,E/-/C/B,100,0.5,10,50,500,307,N/A,No,No
+Saint's Talisman,Talismans,Spell Tool,53/0/0/0/0,25/15/10/15/15,0/0/0,4/0/0/16,D/-/-/A,100,0.5,10,65,300,242,N/A,No,No
+Canvas Talisman,Talismans,Spell Tool,52/0/0/0/0,25/15/10/15/15,0/0/0,4/0/0/14,D/-/-/B,100,0.5,10,55,100,220,N/A,No,No
+Storyteller's Staff,Staves,Spell Tool,60/0/0/0/0,25/25/10/10/15,0/0/0,6/0/12/0,E/-/B/-,100,2.5,10,45,50,218,N/A,No,No
+Sorcerer's Staff,Staves,Spell Tool,60/0/0/0/0,25/20/10/10/15,0/0/0,6/0/10/0,E/-/B/-,100,2.0,10,50,100,226,N/A,No,No
+Sage's Crystal Staff,Staves,Boss,84/0/0/0/0,25/25/10/10/15,0/0/0,7/0/24/0,E/-/B/-,100,2.5,10,50,1000,207,N/A,No,No
+Man-grub's Staff,Staves,Unique,90/0/0/0/0,30/25/10/10/15,0/0/0,9/0/18/0,D/-/-/-,100,3.0,15,65,250,100,N/A,No,No
+Izalith Staff,Staves,Unique,120/0/0/0/0,30/25/20/20/20,0/0/0,12/0/14/10,D/D/B/C,100,3.0,15,55,500,270,N/A,No,No
+Heretic's Staff,Staves,Spell Tool,63/0/0/0/0,30/25/10/10/20,0/0/0,8/0/16/0,D/-/B/-,100,3.0,15,55,500,220,N/A,No,No
+Court Sorcerer's Staff,Staves,Spell Tool,60/0/0/0/0,25/20/10/10/15,0/0/0,6/0/14/0,E/-/A/-,100,2.0,10,45,800,238,N/A,No,No
+Pyromancy Flame,Pyromancy Flames,Spell Tool,0/0/100/0/0,-/-/-/-/-,0/0/0,0/0/0/0,-/-/C/C,100,0.0,-,50,100,221,N/A,No,No
+Ghru Rotshield,Small Shields,Regular,78/0/0/0/0,62/43/39/34/37,36/0/0,5/0/0/0,E/-/-/-,100,1.5,44,55,5,N/A,N/A,Yes,Yes
+Red and White Round Shield,Small Shields,Regular,69/0/0/0/0,52/58/46/36/32,0/0/0,10/0/0/0,E/-/-/-,100,1.5,39,55,70,N/A,N/A,Yes,Yes
+Target Shield,Small Shields,Regular,69/0/0/0/0,61/36/31/12/29,0/0/0,8/11/0/0,E/-/-/-,100,2.0,36,40,150,N/A,N/A,Yes,Yes
+Small Leather Shield,Small Shields,Regular,70/0/0/0/0,42/42/50/38/35,0/0/0,7/0/0/0,E/-/-/-,100,2.0,35,55,100,N/A,N/A,Yes,Yes
+Sacred Bloom Shield,Small Shields,Unique,82/0/0/0/0,54/81/49/44/47,0/0/0,10/0/0/0,D/-/-/-,100,1.5,38,85,150,N/A,N/A,Yes,Yes
+Round Shield,Normal Shields,Regular,79/0/0/0/0,86/68/50/45/41,0/0/0,8/0/0/0,D/-/-/-,100,3.5,51,80,100,N/A,N/A,Yes,Yes
+Plank Shield,Small Shields,Regular,53/0/0/0/0,41/24/27/23/25,0/0/0,8/0/0/0,E/-/-/-,100,1.0,34,40,2,N/A,N/A,Yes,Yes
+Llewellyn Shield,Small Shields,Regular,76/0/0/0/0,68/69/63/44/61,0/0/0,12/0/0/0,D/-/-/-,100,3.0,45,70,100,N/A,N/A,Yes,Yes
+Leather Shield,Small Shields,Regular,69/0/0/0/0,52/38/40/42/32,0/0/0,7/0/0/0,E/-/-/-,100,1.5,36,55,80,N/A,N/A,Yes,Yes
+Iron Round Shield,Small Shields,Regular,71/0/0/0/0,67/44/38/19/36,0/0/0,5/0/0/0,E/-/-/-,100,2.0,47,55,30,N/A,N/A,Yes,Yes
+Golden Falcon Shield,Small Shields,Regular,74/0/0/0/0,59/45/39/20/37,0/0/0,10/0/0/0,D/-/-/-,100,2.5,48,85,250,N/A,N/A,Yes,Yes
+Elkhorn Round Shield,Small Shields,Regular,69/0/0/0/0,59/63/33/36/25,0/0/0,8/0/0/0,E/-/-/-,100,1.5,39,55,100,N/A,N/A,Yes,Yes
+Eastern Iron Shield,Small Shields,Regular,81/0/0/0/0,85/40/41/22/39,0/0/0,8/0/0/0,D/-/-/-,100,3.0,48,100,300,N/A,N/A,Yes,Yes
+Crimson Parma,Small Shields,Regular,69/0/0/0/0,52/63/40/36/39,0/0/0,7/0/0/0,E/-/-/-,100,1.5,39,55,100,N/A,N/A,Yes,Yes
+Caduceus Round Shield,Small Shields,Regular,69/0/0/0/0,52/63/46/36/25,0/0/0,10/0/0/0,E/-/-/-,100,1.5,39,55,65,N/A,N/A,Yes,Yes
+Crescent Moon Sword,Curved Swords,Boss,78/78/0/0/0,40/30/25/25/30,0/0/0,10/16/0/0,-/C/D/-,100,2.5,25,70,1000,N/A,N/A,No,No
+Mail Breaker,Daggers,Regular,89/0/0/0/0,35/20/15/15/20,0/0/0,7/12/0/0,E/D/-/-,125,1.5,15,50,100,N/A,N/A,Yes,Yes
+Buckler,Small Shields,Regular,67/0/0/0/0,49/35/30/11/28,0/0/0,7/13/0/0,E/-/-/-,100,1.5,33,30,300,N/A,N/A,Yes,Yes
+Claymore,Greatswords,Regular,138/0/0/0/0,50/35/30/30/35,0/0/0,16/13/0/0,D/D/-/-,100,9.0,35,75,100,N/A,N/A,Yes,Yes
+Drakeblood Greatsword,Greatswords,Regular,89/71/0/71/0,50/35/30/30/35,0/0/0,18/16/0/0,D/D/-/-,100,6.5,35,75,100,N/A,N/A,Yes,Yes
+Executioner's Greatsword,Greatswords,Regular,134/0/0/0/0,50/35/30/30/35,0/0/0,19/13/0/0,C/E/-/-,100,9.0,40,85,100,N/A,N/A,Yes,No
+Firelink Greatsword,Greatswords,Boss,128/0/89/0/0,55/35/40/30/35,0/0/0,20/10/10/10,D/D/-/-,100,9.0,40,105,2000,N/A,N/A,No,No
+Flamberge,Greatswords,Regular,158/0/0/0/0,50/35/30/30/35,0/36/0,15/14/0/0,D/D/-/-,100,8.5,35,70,300,N/A,N/A,Yes,Yes
+Greatsword of Judgment,Greatswords,Boss,110/86/0/0/0,50/35/30/30/35,0/0/0,17/15/12/0,D/D/C/-,100,9.0,40,85,1000,N/A,N/A,No,No
+Hollowslayer Greatsword,Greatswords,Boss,145/0/0/0/0,50/35/30/30/35,0/0/0,14/18/0/0,D/C/-/-,100,8.5,35,70,100,N/A,N/A,No,No
+Moonlight Greatsword,Greatswords,Boss,69/130/0/0/0,55/60/35/35/40,0/0/0,16/11/26/0,E/-/C/-,100,10.5,40,75,2000,N/A,N/A,No,No
+Storm Ruler,Greatswords,Boss,154/0/0/0/0,50/35/30/30/35,0/0/0,0/0/0/0,D/D/-/-,100,8.0,35,10,N/A,N/A,N/A,No,No
+Twin Princes' Greatsword,Greatswords,Boss,126/0/83/0/0,55/35/30/30/35,0/0/0,22/14/0/0,D/D/D/D,100,9.5,40,95,2000,N/A,N/A,No,No
+Wolf Knight's Greatsword,Greatswords,Boss,139/0/0/0/0,55/40/35/35/40,0/0/0,24/18/0/0,C/D/-/-,100,11.5,40,95,1000,N/A,N/A,No,No
+Wolnir's Holy Sword,Greatswords,Boss,151/0/0/0/0,45/35/30/30/45,0/0/0,13/13/0/13,D/E/-/D,100,7.5,30,70,1000,N/A,N/A,No,No
+Bastard Sword,Greatswords,Regular,138/0/0/0/0,50/35/30/30/35,0/0/0,16/10/0/0,D/D/-/-,100,8.0,35,75,300,N/A,N/A,Yes,Yes
+Black Knight Sword,Greatswords,Unique,173/0/0/0/0,55/40/40/35/40,0/0/0,20/18/0/0,D/D/-/-,100,10.0,40,100,500,N/A,N/A,No,No
+Black Knight Glaive,Halberds,Unique,159/0/0/0/0,40/25/30/20/25,0/0/0,28/18/0/0,D/D/-/-,100,9.0,25,115,500,N/A,N/A,No,No
+Glaive,Halberds,Regular,141/0/0/0/0,45/30/25/25/30,0/0/0,17/11/0/0,D/E/-/-,100,11.0,25,95,100,N/A,N/A,Yes,Yes
+Crescent Axe,Halberds,Regular,119/0/0/0/0,40/25/20/20/25,0/0/0,14/12/0/0,D/D/-/-,100,6.0,20,75,300,N/A,N/A,Yes,Yes
+Gundyr's Halberd,Halberds,Boss,145/0/0/0/0,45/30/25/25/30,0/0/0,30/15/0/0,C/E/-/-,100,13.0,25,500,1000,N/A,N/A,No,No
+Halberd,Halberds,Regular,125/0/0/0/0,40/25/20/20/25,0/0/0,16/12/0/0,D/D/-/-,100,8.0,20,75,100,N/A,N/A,Yes,Yes
+Immolation Tinder,Halberds,Unique,118/0/75/0/0,40/25/20/20/25,0/0/0,18/18/12/12,D/D/B/-,100,10.0,25,85,200,220,N/A,No,No
+Lucerne,Halberds,Regular,126/0/0/0/0,40/25/20/20/25,0/0/0,15/13/0/0,D/D/-/-,100,7.5,20,75,100,N/A,N/A,Yes,Yes
+Red Hilted Halberd,Halberds,Regular,130/0/0/0/0,40/25/20/20/25,0/0/0,14/14/0/0,D/D/-/-,100,8.0,20,80,100,N/A,N/A,Yes,Yes
+Winged Knight Halberd,Halberds,Regular,145/0/0/0/0,50/30/25/25/30,0/0/0,26/16/0/0,D/E/-/-,100,14.0,25,145,300,N/A,N/A,Yes,Yes
+Blacksmith Hammer,Hammers,Regular,105/0/0/0/0,45/30/25/25/30,0/0/0,13/13/0/0,C/-/-/-,100,5.0,30,95,500,N/A,N/A,Yes,Yes
+Warpick,Hammers,Regular,113/0/0/0/0,45/30/25/25/30,0/0/0,12/10/0/0,C/E/-/-,100,4.5,30,70,100,N/A,N/A,Yes,Yes
+Reinforced Club,Hammers,Regular,110/0/0/0/0,45/30/30/30/30,0/30/0,12/0/0/0,C/-/-/-,100,4.0,30,45,70,N/A,N/A,Yes,Yes
+Morning Star,Hammers,Regular,122/0/0/0/0,45/30/25/25/30,0/30/0,11/9/0/0,D/E/-/-,100,5.0,30,75,100,N/A,N/A,Yes,Yes
+Mace,Hammers,Regular,115/0/0/0/0,45/30/25/25/30,0/0/0,12/7/0/0,C/E/-/-,100,5.0,30,80,100,N/A,N/A,Yes,Yes
+Heysel Pick,Hammers,Unique,93/70/0/0/0,50/30/25/25/30,0/0/0,12/10/19/0,D/E/B/-,100,4.5,35,70,1500,208,N/A,No,No
+Drang Hammers,Hammers,Regular,110/0/0/0/0,45/30/25/25/30,0/0/0,18/16/0/0,C/E/-/-,100,9.0,30,80,350,N/A,N/A,Yes,Yes
+Club,Hammers,Regular,108/0/0/0/0,40/25/35/30/25,0/0/0,10/0/0/0,C/-/-/-,100,2.5,30,90,50,N/A,N/A,Yes,Yes
+Black Blade,Katanas,Regular,122/0/0/0/0,50/30/25/25/30,0/30/0,18/18/0/0,E/C/-/-,100,6.5,35,50,300,N/A,N/A,Yes,Yes
+Bloodlust,Katanas,Unique,105/0/0/0/0,45/25/20/20/25,0/34/0,11/24/0/0,E/C/-/-,100,5.0,30,40,500,N/A,N/A,No,No
+Chaos Blade,Katanas,Unique,103/0/0/0/0,45/25/20/20/25,0/34/0,16/14/0/0,E/A/-/-,100,6.0,30,35,500,N/A,N/A,No,No
+Darkdrift,Katanas,Unique,134/0/0/0/0,40/25/20/20/25,0/34/0,10/28/0/0,E/D/-/-,100,3.5,30,35,500,N/A,N/A,Yes,No
+Onikiri and Ubadachi,Katanas,Regular,104/0/0/0/0,45/25/20/20/25,0/30/0,13/25/0/0,D/C/-/-,100,8.5,30,35,300,N/A,N/A,Yes,Yes
+Uchigatana,Katanas,Regular,115/0/0/0/0,45/25/20/20/25,0/30/0,11/16/0/0,E/C/-/-,100,5.5,30,35,100,N/A,N/A,Yes,Yes
+Washing Pole,Katanas,Regular,121/0/0/0/0,55/30/25/25/30,0/30/0,18/20/0/0,E/D/-/-,100,8.5,35,20,500,N/A,N/A,Yes,Yes
+Great Corvian Scythe,Reapers,Regular,97/0/0/0/0,45/30/20/20/30,0/38/0,16/18/0/0,D/C/-/-,100,9.0,25,55,30,N/A,N/A,Yes,Yes
+Great Scythe,Reapers,Regular,105/0/0/0/0,40/25/20/20/25,0/30/0,14/14/0/0,E/C/-/-,100,7.0,20,60,100,N/A,N/A,Yes,Yes
+Pontiff Knight Great Scythe,Reapers,Unique,100/0/0/0/0,40/25/20/20/25,0/30/0,14/19/0/12,E/A/-/-,100,7.5,20,55,300,N/A,N/A,No,No
+Dragonslayer Greatbow,Greatbows,Unique,126/0/0/0/0,0/0/0/0/0,0/0/0,20/20/0/0,D/D/-/-,100,10.0,0,100,1000,N/A,50,No,No
+Rotten Ghru Curved Sword,Curved Swords,Regular,103/0/0/0/0,40/30/25/25/25,36/0/0,10/13/0/0,E/C/-/-,100,2.0,25,55,100,N/A,N/A,Yes,Yes
+Carthus Shotel,Curved Swords,Regular,106/0/0/0/0,40/35/25/25/35,0/30/0,12/19/0/0,E/C/-/-,100,3.0,30,55,150,N/A,N/A,Yes,Yes
+Lothric Knight Greatsword,Ultra Greatswords,Regular,131/0/0/87/0,55/45/40/45/45,0/0/0,24/16/0/0,D/D/-/-,100,16.5,45,100,0,N/A,N/A,Yes,Yes
+Rotten Ghru Dagger,Daggers,Regular,64/0/0/0/0,35/20/15/15/20,36/0/0,10/8/0/0,E/C/-/-,100,2.0,15,45,100,N/A,N/A,Yes,Yes
+Arstor's Spear,Spears,Boss,118/0/0/0/0,40/25/20/20/25,36/0/0,11/19/0/0,D/C/-/-,100,6.5,20,90,1000,N/A,N/A,No,No
+Yorshka's Spear,Spears,Unique,102/0/0/0/0,40/65/60/60/65,0/0/0,18/14/0/13,D/D/-/D,100,6.5,25,65,1000,N/A,N/A,No,No
+Winged Spear,Spears,Regular,95/0/0/0/0,40/25/20/20/25,0/0/0,12/15/0/0,D/C/-/-,100,6.0,20,70,100,N/A,N/A,Yes,Yes
+Tailbone Spear,Spears,Boss,118/0/0/0/0,40/25/20/20/25,0/0/0,13/15/0/0,E/D/-/-,100,4.5,20,60,70,N/A,N/A,No,No
+Spear,Spears,Regular,104/0/0/0/0,40/25/20/20/25,0/0/0,11/10/0/0,D/C/-/-,100,4.5,20,65,100,N/A,N/A,Yes,Yes
+Soldering Iron,Spears,Regular,39/0/96/0/0,40/25/20/20/25,0/0/0,10/12/0/0,D/D/-/-,100,5.0,20,25,100,N/A,N/A,No,No
+Saint Bident,Spears,Regular,98/0/0/0/0,45/30/25/25/30,0/0/0,12/12/0/16,E/E/-/D,100,8.5,25,70,1000,N/A,N/A,Yes,Yes
+Rotten Ghru Spear,Spears,Regular,104/0/0/0/0,40/25/20/20/25,36/0/0,10/12/0/0,D/D/-/-,100,5.5,20,50,50,N/A,N/A,Yes,Yes
+Pike,Pikes,Regular,105/0/0/0/0,45/30/25/25/30,0/0/0,18/14/0/0,D/C/-/-,100,7.5,25,80,100,N/A,N/A,Yes,Yes
+Partizan,Spears,Regular,108/0/0/0/0,40/25/20/20/25,0/0/0,14/12/0/0,D/D/-/-,100,6.5,20,65,100,N/A,N/A,Yes,Yes
+Lothric Knight Long Spear,Pikes,Regular,112/0/0/0/0,45/30/25/25/30,0/0/0,14/20/0/0,D/D/-/-,100,8.0,25,80,300,N/A,N/A,Yes,Yes
+Greatlance,Pikes,Regular,129/0/0/0/0,50/30/25/25/30,0/0/0,21/16/0/0,D/D/-/-,100,10.5,25,90,100,N/A,N/A,Yes,Yes
+Golden Ritual Spear,Spears,Unique,73/77/0/0/0,40/30/20/20/25,0/0/0,10/10/18/14,E/D/-/B,100,3.0,20,50,1000,220,N/A,No,No
+Gargoyle Flame Spear,Spears,Regular,90/0/83/0/0,50/30/25/25/30,0/0/0,15/18/9/9,E/D/E/E,100,9.5,25,70,800,N/A,N/A,No,No
+Four-Pronged Plow,Spears,Regular,105/0/0/0/0,40/25/20/20/25,0/0/0,13/11/0/0,D/D/-/-,100,6.5,20,55,100,N/A,N/A,Yes,Yes
+Drang Twinspears,Spears,Regular,100/0/0/0/0,40/25/20/20/25,0/0/0,14/20/0/0,D/D/-/-,100,8.0,20,70,350,N/A,N/A,Yes,Yes
+Dragonslayer Swordspear,Spears,Boss,128/0/0/34/0,55/35/30/30/35,0/0/0,16/22/0/18,D/D/-/D,100,14.5,25,100,1000,N/A,N/A,No,No
+Dragonslayer Spear,Spears,Unique,97/0/0/70/0,50/30/25/25/30,0/0/0,20/20/0/0,D/C/-/D,100,9.5,25,80,1000,N/A,N/A,No,No
+Gargoyle Flame Hammer,Great Hammers,Regular,122/0/100/0/0,55/40/35/35/40,0/0/0,22/0/9/9,D/-/E/E,100,11.0,45,150,800,N/A,N/A,No,No
+Great Club,Great Hammers,Regular,152/0/0/0/0,55/40/45/40/40,0/0/0,28/0/0/0,C/-/-/-,100,12.0,40,280,75,N/A,N/A,Yes,Yes
+Great Mace,Great Hammers,Regular,185/0/0/0/0,55/45/50/45/45,0/0/0,32/0/0/0,D/-/-/-,100,18.0,45,150,150,N/A,N/A,Yes,Yes
+Great Wooden Hammer,Great Hammers,Regular,125/0/0/0/0,50/40/35/35/40,0/0/0,18/0/0/0,C/-/-/-,100,6.0,40,135,100,N/A,N/A,Yes,Yes
+Large Club,Great Hammers,Regular,148/0/0/0/0,50/35/45/40/35,0/0/0,22/0/0/0,C/-/-/-,100,10.0,40,125,75,N/A,N/A,Yes,Yes
+Morne's Great Hammer,Great Hammers,Unique,200/0/0/0/0,70/50/45/45/50,0/0/0,50/0/0/30,D/-/-/D,100,24.0,45,250,1000,N/A,N/A,No,No
+Old King's Great Hammer,Great Hammers,Boss,180/0/69/0/0,60/45/40/40/45,0/0/0,30/0/10/10,D/-/D/D,100,18.5,45,185,1000,N/A,N/A,No,No
+Pickaxe,Great Hammers,Regular,140/0/0/0/0,50/35/30/30/35,0/0/0,18/9/0/0,C/-/-/-,100,8.0,40,105,100,N/A,N/A,Yes,Yes
+Smough's Great Hammer,Great Hammers,Unique,205/0/0/0/0,70/50/45/45/50,0/0/0,45/0/0/0,C/-/-/-,100,24.0,45,205,1000,N/A,N/A,No,No
+Spiked Mace,Great Hammers,Regular,149/0/0/0/0,55/40/35/35/40,0/43/0,21/13/0/0,C/-/-/-,100,16.0,40,140,100,N/A,N/A,Yes,Yes
+Vordt's Great Hammer,Great Hammers,Boss,176/0/0/0/0,55/45/35/35/45,0/0/110,30/0/0/0,C/-/-/-,100,17.0,45,170,1000,N/A,N/A,No,No
+Onislayer Greatbow,Greatbows,Unique,111/0/0/0/0,0/0/0/0/0,0/0/0,18/24/0/0,E/C/-/-,100,7.5,0,65,300,N/A,63,No,No
+Dragonrider Bow,Bows,Boss,110/0/0/0/0,-/-/-/-/-,0/0/0,19/15/0/0,D/E/-/-,100,6.5,-,75,300,N/A,50,No,No
+Cleric's Candlestick,Straight Swords,Regular,70/77/0/0/0,40/30/25/25/30,0/0/0,8/12/0/12,D/D/C/-,100,2.0,30,65,1000,60,N/A,No,No
+Broken Straight Sword,Straight Swords,Regular,70/0/0/0/0,40/25/20/20/25,0/0/0,8/8/0/0,D/D/-/-,100,1.0,30,30,3,N/A,N/A,Yes,Yes
+Dark Sword,Straight Swords,Regular,110/0/0/0/0,55/35/30/30/35,0/0/0,16/15/0/0,C/D/-/-,100,4.5,35,80,500,N/A,N/A,Yes,Yes
+Gotthard Twinswords,Straight Swords,Regular,100/0/0/0/0,50/30/25/25/30,0/0/0,12/18/0/0,D/D/-/-,100,6.5,30,70,500,N/A,N/A,Yes,Yes
+Irithyll Straight Sword,Straight Swords,Unique,124/0/0/0/0,50/35/30/30/35,0/0/55,12/14/0/0,D/D/-/-,100,4.0,35,80,500,N/A,N/A,No,No
+Long Sword,Straight Swords,Regular,110/0/0/0/0,45/30/25/25/30,0/0/0,10/10/0/0,D/D/-/-,100,3.0,30,70,100,N/A,N/A,Yes,Yes
+Lothric's Holy Sword,Straight Swords,Boss,107/0/0/0/0,50/35/30/30/35,0/0/0,10/18/0/14,D/D/-/E,100,4.0,35,80,1000,N/A,N/A,No,No
+Lothric Knight Sword,Straight Swords,Regular,103/0/0/0/0,45/35/25/25/35,0/0/0,11/18/0/0,D/D/-/-,110,4.0,35,80,500,N/A,N/A,Yes,Yes
+Morion Blade,Straight Swords,Unique,131/0/0/0/0,45/35/25/25/35,0/34/0,12/17/0/0,D/D/-/-,100,4.0,35,80,1000,N/A,N/A,No,No
+Shortsword,Straight Swords,Regular,99/0/0/0/0,45/30/25/25/30,0/0/0,8/10/0/0,D/C/-/-,110,2.0,30,65,100,N/A,N/A,Yes,Yes
+Sunlight Straight Sword,Straight Swords,Unique,112/0/0/0/0,45/30/25/25/30,0/0/0,12/12/0/16,D/D/-/C,100,3.0,30,70,500,N/A,N/A,Yes,No
+Anri's Straight Sword,Straight Swords,Unique,117/0/0/0/0,45/30/25/25/30,0/0/0,10/10/0/0,E/E/-/E,100,3.0,30,80,500,N/A,N/A,Yes,No
+Astora Straight Sword,Straight Swords,Regular,129/0/0/0/0,45/30/25/25/30,0/0/0,10/10/0/12,D/E/-/-,100,3.0,30,80,100,N/A,N/A,Yes,Yes
+Barbed Straight Sword,Straight Swords,Regular,111/0/0/0/0,45/30/25/25/30,0/30/0,11/11/0/0,D/D/-/-,100,3.0,35,65,100,N/A,N/A,Yes,Yes
+Broadsword,Straight Swords,Regular,117/0/0/0/0,45/30/25/25/30,0/0/0,10/10/0/0,C/D/-/-,100,3.0,30,80,100,N/A,N/A,Yes,Yes
+Crystal Sage's Rapier,Thrusting Swords,Boss,55/82/0/0/0,40/30/15/15/20,0/0/0,13/18/0/0,E/E/C/-,100,2.5,15,40,1000,N/A,N/A,No,No
+Estoc,Thrusting Swords,Regular,105/0/0/0/0,45/25/20/20/25,0/0/0,10/12/0/0,D/D/-/-,100,3.5,20,60,300,N/A,N/A,Yes,Yes
+Irithyll Rapier,Thrusting Swords,Unique,116/0/0/0/0,40/25/20/20/25,0/0/55,10/16/0/0,D/D/-/-,110,3.0,20,70,1000,N/A,N/A,No,No
+Rapier,Thrusting Swords,Regular,95/0/0/0/0,35/20/15/15/20,0/0/0,7/12/0/0,E/C/-/-,130,2.0,15,60,100,N/A,N/A,Yes,Yes
+Ricard's Rapier,Thrusting Swords,Regular,97/0/0/0/0,35/20/15/15/20,0/0/0,8/20/0/0,D/C/-/-,100,2.5,15,70,500,N/A,N/A,Yes,Yes
+Yhorm's Great Machete,Greataxes,Boss,185/0/0/0/0,55/45/40/40/45,0/0/0,38/10/0/0,C/-/-/-,100,19.0,40,140,1000,N/A,N/A,No,No
+Great Machete,Greataxes,Regular,167/0/0/0/0,50/40/35/35/40,0/0/0,24/10/0/0,D/E/-/-,100,14.0,35,85,200,N/A,N/A,Yes,Yes
+Greataxe,Greataxes,Regular,188/0/0/0/0,55/45/40/40/45,0/0/0,32/8/0/0,D/E/-/-,100,16.0,40,135,150,N/A,N/A,Yes,Yes
+Dragonslayer Greataxe,Greataxes,Boss,200/0/0/74/0,55/45/40/40/45,0/0/0,40/0/0/0,D/E/-/D,100,20.0,40,165,1000,N/A,N/A,No,No
+Black Knight Greataxe,Greataxes,Unique,201/0/0/0/0,60/45/50/40/45,0/0/0,36/18/0/0,C/D/-/-,100,19.5,40,150,500,N/A,N/A,No,No
+Demon's Greataxe,Greataxes,Boss,157/0/88/0/0,50/40/35/35/40,0/0/0,28/0/12/12,C/E/D/D,100,14.5,40,60,1000,N/A,N/A,No,No
+Demon's Fist,Fists,Boss,111/0/77/0/0,0/0/0/0/0,0/0/0,20/8/9/9,D/-/E/E,100,5.5,0,100,1000,N/A,N/A,No,No
+Dark Hand,Fists,Unique,88/0/0/0/150,65/65/65/65/65,0/0/0,0/0/0/0,C/C/D/D,100,0.0,30,55,1000,N/A,N/A,No,No
+Caestus,Fists,Regular,91/0/0/0/0,-/-/-/-/-,0/0/0,5/8/0/0,D/D/-/-,100,0.5,-,60,100,N/A,N/A,Yes,Yes
+Tailbone Short Sword,Daggers,Boss,106/0/0/0/0,35/20/15/15/20,0/0/0,8/14/0/0,E/E/-/-,110,2.0,20,50,50,N/A,N/A,No,No
+Scholar's Candlestick,Daggers,Regular,68/0/0/0/0,35/20/15/15/20,0/0/0,7/0/0/16,E/C/-/-,115,1.5,15,40,500,N/A,N/A,No,No
+Parrying Dagger,Daggers,Regular,60/0/0/0/0,30/20/15/15/20,0/0/0,5/14/0/0,E/C/-/-,110,1.0,15,40,100,N/A,N/A,Yes,Yes
+Harpe,Daggers,Regular,62/0/0/0/0,35/20/15/15/20,0/0/0,8/10/0/0,E/C/-/-,100,1.5,15,45,100,N/A,N/A,Yes,Yes
+Handmaid's Dagger,Daggers,Regular,85/0/0/0/0,30/20/15/15/20,0/0/0,4/8/0/0,E/E/-/-,110,0.5,15,40,1000,N/A,N/A,No,No
+Dagger,Daggers,Regular,65/0/0/0/0,35/20/15/15/20,0/0/0,5/9/0/0,E/C/-/-,130,1.5,15,50,100,N/A,N/A,Yes,Yes
+Corvian Greatknife,Daggers,Regular,93/0/0/0/0,40/25/20/20/25,0/0/0,12/16/0/0,E/E/-/-,110,2.5,20,55,100,N/A,N/A,Yes,Yes
+Brigand Twindaggers,Daggers,Regular,70/0/0/0/0,35/20/15/15/20,0/0/0,10/18/0/0,D/D/-/-,125,2.5,15,50,100,N/A,N/A,Yes,Yes
+Bandit's Knife,Daggers,Regular,79/0/0/0/0,35/20/15/15/20,0/30/0,6/12/0/0,D/D/-/-,110,1.5,15,50,100,N/A,N/A,Yes,Yes
+Old Wolf Curved Sword,Curved Greatswords,Unique,155/0/0/0/0,55/45/40/40/45,0/0/0,19/25/0/0,D/C/-/-,100,13.0,45,95,1000,N/A,N/A,No,No
+Exile Greatsword,Curved Greatswords,Regular,148/0/0/0/0,65/50/45/45/50,0/0/0,24/16/0/0,C/D/-/-,100,17.0,45,120,150,N/A,N/A,Yes,Yes
+Murakumo,Curved Greatswords,Regular,132/0/0/0/0,55/40/35/35/40,0/0/0,20/18/0/0,D/C/-/-,100,11.0,45,105,150,N/A,N/A,Yes,Yes
+Warden Twinblades,Curved Swords,Regular,93/0/0/0/0,40/35/25/25/35,0/30/0,10/18/0/0,D/D/-/-,100,6.5,30,70,70,N/A,N/A,Yes,Yes
+Storm Curved Sword,Curved Swords,Boss,110/0/0/0/0,50/35/30/30/35,0/0/0,14/20/0/0,D/C/-/-,100,5.0,35,85,1000,N/A,N/A,No,No
+Shotel,Curved Swords,Regular,104/0/0/0/0,40/30/25/25/30,0/0/0,9/14/0/0,E/C/-/-,100,2.5,25,55,200,N/A,N/A,Yes,Yes
+Sellsword Twinblades,Curved Swords,Regular,99/0/0/0/0,40/30/25/25/30,0/0/0,10/16/0/0,E/C/-/-,100,5.5,25,55,100,N/A,N/A,Yes,Yes
+Pontiff Knight Curved Sword,Curved Swords,Unique,123/0/0/0/0,45/30/25/25/30,0/0/0,12/18/10/0,D/D/-/-,100,3.5,30,90,300,N/A,N/A,No,No
+Scimitar,Curved Swords,Regular,90/0/0/0/0,40/30/25/25/30,0/0/0,7/13/0/0,E/B/-/-,100,2.5,25,60,100,N/A,N/A,Yes,Yes
+Painting Guardian's Curved Sword,Curved Swords,Regular,88/0/0/0/0,35/25/25/25/25,0/30/0,7/19/0/0,E/B/-/-,100,1.5,25,55,100,N/A,N/A,Yes,Yes
+Falchion,Curved Swords,Regular,117/0/0/0/0,45/30/25/25/30,0/0/0,9/13/0/0,D/D/-/-,100,4.0,35,70,100,N/A,N/A,Yes,Yes
+Dancer's Enchanted Swords,Curved Swords,Boss,79/62/62/0/0,50/40/35/25/30,0/0/0,12/20/9/9,D/D/D/D,100,8.5,35,80,1000,N/A,N/A,No,No
+Carthus Curved Sword,Curved Swords,Regular,105/0/0/0/0,55/35/30/30/35,0/30/0,15/18/0/0,D/D/-/-,100,5.5,35,45,150,N/A,N/A,Yes,Yes
+Sniper Crossbow,Crossbows,Bow,70/0/0/0/0,0/0/0/0/0,0/0/0,18/16/0/0,-/-/-/-,100,7.5,0,55,100,N/A,59,No,No
+Light Crossbow,Crossbows,Bow,64/0/0/0/0,0/0/0/0/0,0/0/0,10/8/0/0,-/-/-/-,100,3.0,0,45,100,N/A,42,No,No
+Knight's Crossbow,Crossbows,Bow,40/0/0/40/0,0/0/0/0/0,0/0/0,12/8/0/0,-/-/-/-,100,4.0,0,50,500,N/A,42,No,No
+Avelyn,Crossbows,Bow,64/0/0/0/0,0/0/0/0/0,0/0/0,16/14/0/0,-/-/-/-,100,7.5,0,35,1000,N/A,35,No,No
+Arbalest,Crossbows,Bow,78/0/0/0/0,0/0/0/0/0,0/0/0,18/8/0/0,-/-/-/-,100,6.0,0,50,100,N/A,50,No,No
+Manikin Claws,Claws,Regular,81/0/0/0/0,-/-/-/-/-,0/30/0,8/18/0/0,E/C/-/-,110,2.0,-,60,100,N/A,N/A,Yes,Yes
+Claw,Claws,Regular,86/0/0/0/0,-/-/-/-/-,0/30/0,6/14/0/0,E/C/-/-,110,1.5,-,55,100,N/A,N/A,Yes,Yes
+Zweihander,Ultra Greatswords,Regular,145/0/0/0/0,50/40/35/35/40,0/0/0,19/11/0/0,D/D/-/-,100,10.0,40,80,0,N/A,N/A,Yes,Yes
+Profaned Greatsword,Ultra Greatswords,Boss,161/0/0/0/0,55/45/40/40/45,0/0/0,22/10/0/0,C/D/-/-,100,13.5,45,100,0,N/A,N/A,No,No
+Lorian's Greatsword,Ultra Greatswords,Boss,151/0/79/0/0,60/45/40/40/45,0/0/0,26/10/0/0,D/D/D/D,100,14.0,45,115,0,N/A,N/A,No,No
+Greatsword,Ultra Greatswords,Regular,159/0/0/0/0,65/50/45/45/50,0/0/0,28/10/0/0,D/D/-/-,100,20.0,45,100,100,N/A,N/A,Yes,Yes
+Fume Ultra Greatsword,Ultra Greatswords,Unique,149/0/0/0/0,80/55/65/60/65,0/0/0,50/10/0/0,A/E/-/-,100,25.5,55,170,100,N/A,N/A,Yes,No
+Farron Greatsword,Ultra Greatswords,Boss,141/0/0/0/0,55/45/40/40/45,0/0/0,18/20/0/0,D/C/-/-,100,12.5,45,90,1000,N/A,N/A,No,No
+Cathedral Knight Greatsword,Ultra Greatswords,Regular,149/0/0/0/0,60/50/40/40/50,0/0/0,26/10/0/0,C/E/-/-,100,15.0,45,120,200,N/A,N/A,Yes,Yes
+Black Knight Greatsword,Ultra Greatswords,Unique,185/0/0/0/0,65/50/50/45/50,0/0/0,30/18/0/0,C/D/-/-,100,16.0,45,115,500,N/A,N/A,No,No
+Astora Greatsword,Ultra Greatswords,Regular,132/0/0/0/0,50/40/35/35/40,0/0/0,16/18/0/0,D/C/-/-,100,8.0,40,75,100,N/A,N/A,Yes,Yes
+Witch's Locks,Whips,Unique,77/0/80/0/0,30/15/20/10/15,0/0/0,9/17/12/12,-/D/C/C,100,3.0,15,50,1000,N/A,N/A,No,No
+Whip,Whips,Regular,90/0/0/0/0,25/15/10/10/15,0/0/0,6/14/0/0,-/C/-/-,100,2.0,10,50,100,N/A,N/A,Yes,Yes
+Notched Whip,Whips,Regular,95/0/0/0/0,25/15/10/10/15,0/34/0,6/19/0/0,-/D/-/-,100,2.0,10,50,150,N/A,N/A,Yes,Yes
+Short Bow,Bows,Bow,77/0/0/0/0,-/-/-/-/-,0/0/0,7/12/0/0,E/D/-/-,100,2.0,-,40,100,N/A,42,No,No
+Longbow,Bows,Bow,82/0/0/0/0,-/-/-/-/-,0/0/0,9/14/0/0,E/D/-/-,100,4.0,-,50,100,N/A,50,No,No
+Darkmoon Longbow,Bows,Boss,36/44/0/0/0,-/-/-/-/-,0/0/0,7/16/10/0,-/E/C/-,100,4.5,-,50,1000,N/A,50,No,No
+Composite Bow,Bows,Bow,73/0/0/0/0,-/-/-/-/-,0/0/0,12/12/0/0,D/D/-/-,100,3.5,-,65,150,N/A,42,No,No
+Black Bow of Pharis,Bows,Bow,67/0/0/0/0,-/-/-/-/-,0/0/0,9/18/0/0,E/C/-/-,100,3.0,-,65,150,N/A,63,No,No
+Winged Knight Twinaxes,Axes,Regular,122/0/0/0/0,45/30/25/25/30,0/0/0,20/12/0/0,D/D/-/-,100,8.5,35,80,150,N/A,N/A,Yes,Yes
+Thrall Axe,Axes,Regular,104/0/0/0/0,40/30/25/25/30,0/0/0,8/8/0/0,D/D/-/-,100,1.5,30,55,30,N/A,N/A,Yes,Yes
+Man Serpent Hatchet,Axes,Regular,125/0/0/0/0,45/30/25/25/30,0/0/0,16/13/0/0,D/D/-/-,100,4.0,30,80,100,N/A,N/A,Yes,Yes
+Hand Axe,Axes,Regular,110/0/0/0/0,45/30/25/25/30,0/0/0,9/8/0/0,D/D/-/-,100,2.5,30,60,100,N/A,N/A,Yes,Yes
+Eleonora,Axes,Boss,156/0/0/0/0,55/40/30/30/40,0/0/0,20/8/0/0,D/E/-/-,100,6.5,35,90,500,N/A,N/A,No,No
+Dragonslayer's Axe,Axes,Regular,105/0/0/105/0,45/30/25/25/30,0/0/0,18/14/0/0,D/E/-/-,100,4.0,30,70,100,N/A,N/A,Yes,Yes
+Butcher Knife,Axes,Regular,95/0/0/0/0,60/40/30/30/40,0/0/0,24/0/0/0,A/-/-/-,100,7.0,35,75,500,N/A,N/A,No,No
+Brigand Axe,Axes,Regular,124/0/0/0/0,45/30/25/25/30,0/0/0,14/8/0/0,D/D/-/-,100,3.0,30,75,100,N/A,N/A,Yes,Yes
+Battle Axe,Axes,Regular,125/0/0/0/0,45/30/25/25/30,0/0/0,12/8/0/0,D/D/-/-,100,4.0,30,80,120,N/A,N/A,Yes,Yes
